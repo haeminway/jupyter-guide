@@ -34,4 +34,3 @@ You can export to a variety of formats from within the notebook by navigating to
 [Installation of Jupyterhub on remote server](https://github.com/jupyterhub/jupyterhub/wiki/Installation-of-Jupyterhub-on-remote-server)
 
 ...
-
